@@ -8,3 +8,6 @@
 
 project/target/
 project/project/
+target/
+
+config.json
